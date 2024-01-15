@@ -1,0 +1,7 @@
+{
+	"name": "YetAnotherLightSwitchMod",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/jacksonb-cs/YetAnotherLightSwitchMod",
+	"description": "A Lethal Company mod that always pays the ships electricity bill (the light can never be turned off).",
+	"dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
